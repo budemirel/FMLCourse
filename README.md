@@ -9,7 +9,7 @@
 ## 📘 Overview
 
 This repository — **FMLCourse** — contains a series of interactive Python and PyTorch notebooks designed to teach and visualize core principles in **machine learning** and **optimization**.  
-Each module provides an intuitive, hands-on demonstration of how algorithms learn, converge, and make decisions, from manual gradient descent to modern deep learning frameworks.
+Each module provides an intuitive, hands-on demonstration of how algorithms learn, converge, and make decisions — from manual gradient descent to modern deep learning architectures like convolutional neural networks.
 
 ---
 
@@ -45,6 +45,31 @@ Each module provides an intuitive, hands-on demonstration of how algorithms lear
 - **Description:**  
   A clean, non-interactive PyTorch training script for the *Two Moons* dataset.  
   Focuses on reproducible model training, validation, and visualization of **decision boundaries**, **loss curves**, and **accuracy trends**.
+
+---
+
+### 5. 📸 **Convolutional Neural Networks — Filters, Feature Maps & Training (GUI)**
+- **File:** `how_to_CNN.ipynb`  
+- **Description:**  
+  An intuitive, interactive notebook introducing **Convolutional Neural Networks (CNNs)** from the ground up.  
+  Demonstrates:
+  - How **convolutions**, **kernels**, and **feature maps** work.  
+  - The roles of **pooling**, **stride**, and **padding** in spatial feature extraction.  
+  - Real-time **filter visualization** and activation maps across layers.  
+  - A **PyTorch training pipeline** for classifying MNIST digits with live plots of accuracy and loss.  
+  Includes both **conceptual visualization** and **hands-on CNN training**, making it ideal for students new to deep learning.
+
+---
+
+### 6. 🧼 **U-Net Denoising — Self-Supervised Learning on MNIST**
+- **File:** `how_to_CNN.ipynb`
+- **Description:**  
+  A demonstration of **image denoising** using a **U-Net architecture** trained in a **supervised** manner.  
+  Implements:
+  - Real-time visualization of noisy vs. denoised digits.  
+  - Validation using **PSNR/MSE** metrics.  
+  - Optional checkpoint saving, visualization tools, and comparison with supervised baselines.  
+
 
 ---
 
