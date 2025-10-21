@@ -53,9 +53,6 @@ Each module provides an intuitive, hands-on demonstration of how algorithms lear
 - **Description:**  
   An intuitive, interactive notebook introducing **Convolutional Neural Networks (CNNs)** from the ground up.  
   Demonstrates:
-  - How **convolutions**, **kernels**, and **feature maps** work.  
-  - The roles of **pooling**, **stride**, and **padding** in spatial feature extraction.  
-  - Real-time **filter visualization** and activation maps across layers.  
   - A **PyTorch training pipeline** for classifying MNIST digits with live plots of accuracy and loss.  
   Includes both **conceptual visualization** and **hands-on CNN training**, making it ideal for students new to deep learning.
 
