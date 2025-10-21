@@ -54,7 +54,7 @@ Each module provides an intuitive, hands-on demonstration of how algorithms lear
   An intuitive, interactive notebook introducing **Convolutional Neural Networks (CNNs)** from the ground up.  
   Demonstrates:
   - A **PyTorch training pipeline** for classifying MNIST digits with live plots of accuracy and loss.  
-  Includes both **conceptual visualization** and **hands-on CNN training**, making it ideal for students new to deep learning.
+  Includes both **conceptual visualization** and **hands-on CNN training**
 
 ---
 
@@ -66,7 +66,6 @@ Each module provides an intuitive, hands-on demonstration of how algorithms lear
   - Real-time visualization of noisy vs. denoised digits.  
   - Validation using **PSNR/MSE** metrics.  
   - Optional checkpoint saving, visualization tools, and comparison with supervised baselines.  
-
 
 ---
 
