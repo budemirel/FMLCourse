@@ -58,7 +58,7 @@ Each module provides an intuitive, hands-on demonstration of how algorithms lear
 
 ---
 
-### 6. 🧼 **U-Net Denoising — Self-Supervised Learning on MNIST**
+### 6. 🧼 **U-Net Denoising — on MNIST**
 - **File:** `how_to_CNN.ipynb`
 - **Description:**  
   A demonstration of **image denoising** using a **U-Net architecture** trained in a **supervised** manner.  
